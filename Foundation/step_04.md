@@ -84,4 +84,4 @@ You should now be able to:
 - Use PyTorch or TensorFlow to create deep learning models
 
 
-🔗 Next: [Specializations →](./step_05/nlp.md)
+🔗 Next: [Specializations →](../Specializations/nlp.md)
